@@ -3,6 +3,7 @@ permalink: /cv/
 layout: home
 author_profile: true
 ---
+
 # EDUCATION
 
 ## Master's degree in Astrophysics (Diploma with honours)
