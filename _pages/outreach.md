@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /outreach/
 layout: single
 author_profile: true
 ---
