@@ -1,3 +1,6 @@
+---
+permalink: /cv/
+---
 ## EDUCATION
 
 # Master's degree in Astrophysics (Diploma with honours)
