@@ -2,6 +2,7 @@
 permalink: /outreach/
 layout: single
 author_profile: true
+title: "Outreach activites"
 ---
 
 ## EDUCATION
