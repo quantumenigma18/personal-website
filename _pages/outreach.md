@@ -19,4 +19,12 @@ I organized the International Cosmic Ray Day for Ukrainian school students in co
 - Identifying and collaborating with other organizers, who assisted in adapting the DESY workshop on Cosmic Rays for this specific event.
 - Recruiting students from Ukraine to participate in the event.
 - Strategizing various contingency plans to ensure the event could proceed, given the potential challenges arising from the ongoing war in Ukraine
+
+## Astronomy Battles Tournament by AstroSendbox
+AstroSendbox is a nationwide Ukrainian astronomy competition designed for high school and undergraduate university students. You can learn more on the [official website] https://www.astrosandbox.com/fightsenglis). I liaise with sponsors from Germany and assist in organizing the event. Additionally, I'm a judge for the tournament.
+
+## Judge Committee:
+- International Olympiad on Astronomy and Astrophysics *Ukraine [2022 – Current]*
+- Astronomy Battles Tournament by AstroSendbox *Ukraine [2021 – Current]*
+- Experimental Physics Olympiad for school students *Ukraine [2014 – 2021]*
   

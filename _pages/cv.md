@@ -134,12 +134,9 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Memberships
-- Judge Committee of the International Olympiad on Astronomy and Astrophysics *Ukraine [2022 – Current]*
-- Judge Committee of the AstroFights *Ukraine [2021 – Current]*
 - AstroSendbox *Ukraine [2021 – Current]*
 - International Helmholtz-Weizmann Research School on Multimessenger Astronomy *Germany-Israel [2020 – Current]*
 - Local Organizing Committee of the Virtual Roentgen and Gamma Observatory (VIRGO.UA) *Ukraine [2014 – Current]*
-- Judge Committee of the Experimental Physics Olympiad for school students *Ukraine [2014 – 2021]*
 - Minor Academy of Sciences of Ukraine *Ukraine [2014 – 2019]*
 
 
