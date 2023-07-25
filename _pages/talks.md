@@ -35,8 +35,10 @@ title: "talks"
     Week of Doctoral Students 2017, Prague, Czech Republic
     
     Young Scientists' conference on Astronomy and Space Physics 2017, Kyiv, Ukraine
+    
 - Lecture **Instrumental Astronomy** for graduate students
-  - Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2019
+    
+    Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2019
 
 - **The optical afterglow of gamma-ray burst GRB130427**
 
