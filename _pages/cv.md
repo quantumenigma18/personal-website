@@ -33,16 +33,68 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 **Supervisors**: Hnatyk Bohdan
 
+# Work and research experience
+- **Visiting researcher**,
+  
+    *Khalifa university, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
+
+- **Trainee Researcher**
+
+    *DESY, Zeuthen, Germany [03/11/2019 – 03/12/2019], [17/02/2019 – 17/03/2019]*
+
+    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
+
+    **Supervisors:** Iurii Sushch
+
+- **Trainee Researcher**
+    
+    *Astronomical Observatory of the Jagiellonian University, Krakow, Poland [01/07/2017 – 23/07/2017]*
+
+    **Topic:** Simulation of radiation emission from classical novae
+    
+    **Supervisor:** Lukasz Filip Stawarz 
+
+- **DESY Summer Student Programme 2019**
+    
+    *DESY, Zeuthen, Germany [17/07/2019 – 05/09/2019]*
+
+    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
+    
+    **Supervisors:** Iurii Sushch
+
+
+- **PhD student’s representative**
+    
+    DESY, Zeuthen, Germany [01/04/2021 – 31/03/2022] 
+
+- **Student’s representative**
+
+    *Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]* 
+- **Secretary of Local Organizing Committee**
+    
+    Young Scientists’ Conference on Astronomy and Space Physics, Kyiv, Ukraine [01/09/2018 – 01/09/2020]
+
+- **Web Development**
+    
+    *KyivDev, Kyiv, Ukraine [01/10/2017 – 25/12/2018]*
+
+    Front-end and back-end development
+
+
 
 # Digital skills 
-**Scientific softs:**
-[PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC (https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html)], [CRpropa](https://https://crpropa.desy.de) 
+- **Scientific softs:**
 
-**Programming:**
-Python / C++ / Qt / IDL / Arduino / Mathematica / Git
+    [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de) 
 
-**Web programming:**
-HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
+- **Programming:**
+
+    Python / C++ / Qt / IDL / Arduino / Mathematica / Git
+
+- **Web programming:**
+
+    HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
+
 
 
 
@@ -50,7 +102,7 @@ HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
 # Teaching and mentoring
 - Supervisor of Valentyna Babur during DESY Ukraine Winter School 2023, Zeuthen, Germany *[31/01/2023-10/03/2023]*. Project: **Ultra-High-Energy Cosmic Rays propagation in extragalactic space from a single source**.
 - Supervisor of Frederike Apel during DESY Summer School 2022, Zeuthen, Germany *[18/07/2022-08/09/2022]*. Project: **Modeling the Gamma-ray burst afterglow emission**. 
-- Teaching **Laboratory Practicum in Vacuum physics**. for elementary school students at DESY, Zeuthen, Germany **[26.8.2022]**
+- Teaching **Laboratory Practicum in Vacuum physics**. for elementary school students at DESY, Zeuthen, Germany *[26.8.2022]*
 - Helping preparing lectures and tutorails for **Neutrino physics and astrophysics (theory)** at University of Oxford and Humboldt university, *[Winter semester 2020/21]*
 - Lecture **Instrumental Astronomy** for graduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 - Preparing tutorials for **Methodology of Science** for undergraduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
@@ -59,31 +111,16 @@ HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
 
 
 # Organizational experience
-- **DESY Ukraine Winter School 2023** *[31/01/2023-10/02/2023]*.  
+- **DESY Ukraine Winter School 2023** *Zeuthen, Germany [31/01/2023-10/02/2023]*. Organizer
+- **Ukrainian International Cosmic Ray Day 2022** * [22/11/2022]*. Main organizer
+- **APPEC Town Meeting 2022** * Berlin, Germany [9/06/2022]*. Chair of roundtables 
+- **AstroFights, Ukraine** *Ukraine [2021- Current]*. Organizer and Judge
+- **Workshop "Presentation of scientific results"** *Ukraine [11/05/2021-25/05/2021]*. Main Organizer
+- **Young Scientists’ Conference on Astronomy and Space Physics** *Ukraine*. 
+    - Chair “High energy astrophysics” section *[2021 – Current]*
+    - Local Organizing Committee *[2014- Current]* 
+- **Experimental Physics Olympiad for school students in Kyiv, Ukraine** *Ukraine [2015- Current]*. Local Organizing Committee 
 
-- **Ukrainian International Cosmic Ray Day 2022** *[22/11/2022]*
-Main Organizer
-Zeuthen, Germany; Abu Dhadi, AUE; Kyiv, Ukraine 
-- **APPEC Town Meeting 2022** *[9/06/2022]* 
-Chair
-Berlin, Germany 
-
-- **AstroFights, Ukraine**
-Organizer and Judge
-Ukraine [2021- Current]
-
-- **Workshop "Presentation of scientific results"**
-Main Organizer
-Ukraine [11/05/2021-25/05/2021]
-- **Young Scientists’ Conference on Astronomy and Space Physics** 
-Chair “High energy astrophysics” section
-Ukraine [2021 – Current]
-Local Organizing Committee 
-Ukraine [2014- Current]
-
-- **Experimental Physics Olympiad for school students in Kyiv, Ukraine**
-Local Organizing Committee 
-Ukraine [2015- Current]
 
 
 # Honours and awards 
@@ -104,5 +141,13 @@ Ukraine [2015- Current]
 - Local Organizing Committee of the Virtual Roentgen and Gamma Observatory (VIRGO.UA) *Ukraine [2014 – Current]*
 - Judge Committee of the Experimental Physics Olympiad for school students *Ukraine [2014 – 2021]*
 - Minor Academy of Sciences of Ukraine *Ukraine [2014 – 2019]*
+
+
+# Volunteer Experience 
+
+NASA International Space Apps Challenge 2018, Media Hack Weekend 2018, Data Scientarium 2017, X Reality Hack 2017, IT Forum Kyiv 2016, Web Standards Days Kyiv 2016, Media Hack Weekend 2016
+
+# Hobbies and interests
+Coﬀee, organizing conferences/meetups and volunteering at diﬀerent events, bouldering and psychology 
 
 

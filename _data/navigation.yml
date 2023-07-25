@@ -3,13 +3,19 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
-    url: "."
+    url: "/"
   - title: "About"
     url: "/about/"
   - title: "CV"
     url: "/cv/"
+  - title: "Publications"
+    url: "/publications"
   - title: "Outreach"
     url: "/outreach/"
+  - title: "Useful links"
+    url: "/useful_links/"
+  - title: "Talks"
+    url: "/talks/"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
