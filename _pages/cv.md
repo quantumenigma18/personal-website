@@ -139,11 +139,6 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 - Local Organizing Committee of the Virtual Roentgen and Gamma Observatory (VIRGO.UA) *Ukraine [2014 – Current]*
 - Minor Academy of Sciences of Ukraine *Ukraine [2014 – 2019]*
 
-
-# Volunteer Experience 
-
-NASA International Space Apps Challenge 2018, Media Hack Weekend 2018, Data Scientarium 2017, X Reality Hack 2017, IT Forum Kyiv 2016, Web Standards Days Kyiv 2016, Media Hack Weekend 2016
-
 # Hobbies and interests
 Coﬀee, organizing conferences/meetups and volunteering at diﬀerent events, bouldering and psychology 
 
