@@ -19,6 +19,7 @@ title: "talks"
     MMS Annual Meeting June 2022, Zeuthen, Germany
     
     YSC 28, April 2022, Kyiv, Ukraine
+
 - **Cosmic rays in starburst galaxies**
 
     DESY Summer School 2019, Zeuthen, Germany
@@ -34,10 +35,13 @@ title: "talks"
     Week of Doctoral Students 2017, Prague, Czech Republic
     
     Young Scientists' conference on Astronomy and Space Physics 2017, Kyiv, Ukraine
+- Lecture **Instrumental Astronomy** for graduate students
+  - Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2019
+
 - **The optical afterglow of gamma-ray burst GRB130427**
 
     Young Scientists' conference on Astronomy and Space Physics 2015, Kyiv, Ukraine
-    
+
 - **Photometry and Polarimetry of Asteroid 4 Vesta**
     
     VIII Barabashova Science Conference 2013, Kharkiv, Ukraine

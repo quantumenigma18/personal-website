@@ -97,14 +97,11 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 
-
-
 # Teaching and mentoring
 - Supervisor of Valentyna Babur during DESY Ukraine Winter School 2023, Zeuthen, Germany *[31/01/2023-10/03/2023]*. Project: **Ultra-High-Energy Cosmic Rays propagation in extragalactic space from a single source**.
 - Supervisor of Frederike Apel during DESY Summer School 2022, Zeuthen, Germany *[18/07/2022-08/09/2022]*. Project: **Modeling the Gamma-ray burst afterglow emission**. 
 - Teaching **Laboratory Practicum in Vacuum physics**. for elementary school students at DESY, Zeuthen, Germany *[26.8.2022]*
 - Helping preparing lectures and tutorails for **Neutrino physics and astrophysics (theory)** at University of Oxford and Humboldt university, *[Winter semester 2020/21]*
-- Lecture **Instrumental Astronomy** for graduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 - Preparing tutorials for **Methodology of Science** for undergraduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 - Tutor for **Laboratory Practicum in Astronomy** for undergraduate student at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 
