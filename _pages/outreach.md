@@ -27,4 +27,9 @@ AstroSendbox is a nationwide Ukrainian astronomy competition designed for high s
 - International Olympiad on Astronomy and Astrophysics *Ukraine [2022 – Current]*
 - Astronomy Battles Tournament by AstroSendbox *Ukraine [2021 – Current]*
 - Experimental Physics Olympiad for school students *Ukraine [2014 – 2021]*
+
+
+## Volunteer Experience 
+
+Universe on Tour 2023, NASA International Space Apps Challenge 2018, Media Hack Weekend 2018, Data Scientarium 2017, X Reality Hack 2017, IT Forum Kyiv 2016, Web Standards Days Kyiv 2016, Media Hack Weekend 2016
   
