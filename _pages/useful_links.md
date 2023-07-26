@@ -13,6 +13,7 @@ Here are some interesting links I've collected. Maybe you'll find something new.
 - [Detexify](http://detexify.kirelabs.org/classify.html) Just draw the symbol you are looking for and get the latex comand.
 - [Trello](https://trello.com/) Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking.
 - [Swiss System](https://swisssystem.org/) A Swiss System tournament is a round-robin-style tournament that has been modified to make it usable with a large number of competitors.
+- [Event app by Eventsair](https://www.eventsair.com). A powerful and centralized platform with the tools and processes you need to manage all aspects of your events, from start to finish. It was used for the European astronomical society annual meeting in 2023
 
 # arXiv
 - [Subscribe to daily listing emails from Arxiv](https://info.arxiv.org/help/subscribe.html). If you would like to receive regular daily listings of the abstracts of new submissions by email. 
