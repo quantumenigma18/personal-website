@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Plotko Pavlo"
+title                    : "Tetiana Povar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Plotko Pavlo"
+name                     : "Tetiana Povar"
 description              : Personal website"
-url                      : "https://plotkopavlo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://quantumenigma18.githubpages.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "plotkopavlo/personal-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "quantumenigma18/personal-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/Plotko.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : m59NxSye3I7w3hfmm9MQe2nC9FMsVWHstpF1u78Efec
+google_site_verification : #
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -98,19 +98,19 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-V1DG3CHZ7F"
+    tracking_id          : #"G-V1DG3CHZ7F"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Pavlo Plotko"
-  avatar           : "/assets/images/plotko.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student at DESY. I am a high-energy astrophysicist and I have a keen interest in outreach and bouldering."
-  location         : "Berlin, Germany"
+  name             : #"Pavlo Plotko"
+  avatar           : #"/assets/images/plotko.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a PhD student at"# DESY. I am a high-energy astrophysicist and I have a keen interest in outreach and bouldering."
+  location         : #"Berlin, Germany"
   email            : #"pavlo.plotko@desy.de"
   links:
-    - label: "pavlo.plotko(at)desy.de"
+    - label: "(at)desy.de"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pavlo.plotko@desy.de"
     - label: "Website"
